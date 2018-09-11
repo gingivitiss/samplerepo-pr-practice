@@ -7,3 +7,6 @@ This repo can be used to practice creating PRs.
 
 line
 alt. line
+
+# Summary
+This is the summary.
